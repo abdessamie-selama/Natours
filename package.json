@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "learning node, express and mongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdessamie-selama/Natours.git"
+  },
+  "author": "Abdessamie selama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdessamie-selama/Natours/issues"
+  },
+  "homepage": "https://github.com/abdessamie-selama/Natours#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
